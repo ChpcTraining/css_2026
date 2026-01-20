@@ -2,17 +2,6 @@
 
 1. Make sure you have done an intro to bash and then open a bash terminal up and running that can be on Windows, Linux, Mac - your preference
 
-## Challenge 1
-
-Open up this link in your browser:
-
-https://arcade.redhat.com/bash/index.html
-
-Links to an external site.
-
-
-## Challenge 2
-
 Open up your bash terminal and git clone the following:
 
 ```
