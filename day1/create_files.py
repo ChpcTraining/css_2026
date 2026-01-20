@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Dec 29 09:24:03 2024
+Created on Sun Dec 1 09:24:03 2026
 
-@author: BBarsch
+@author: Joe Programmer
 """
 
 import os
@@ -45,3 +45,4 @@ for filename in messy_files:
         file.write("")  # Create an empty file
 
 print(f"Created {len(messy_files)} messy files in {directory}!")
+
