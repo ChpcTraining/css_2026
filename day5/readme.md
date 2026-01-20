@@ -1,6 +1,6 @@
-# Prerequisites
+# Bashcrawl
 
-1. Make sure you have done an intro to bash and then open a bash terminal up and running that can be on Windows, Linux, Mac - your preference
+Make sure you have done an intro to bash and then open a bash terminal up and running that can be on Windows, Linux, Mac - your preference
 
 Open up your bash terminal and git clone the following:
 
