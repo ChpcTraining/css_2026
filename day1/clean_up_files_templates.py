@@ -1,6 +1,10 @@
 # -*- coding: utf-8 -*-
 """
+Name:
 
+Date:
+
+Purpose:
 """
 
 # Import Libraries
@@ -18,16 +22,6 @@
     
     # Replace common separators with spaces
     
-    # Replace underscore with space
-    
-    # Replace hyphen with space
-    
-    # Replace semicolon with space
-    
-    # Replace exclamation mark with space
-    
-    # Replace at symbol with space
-    
     # Split into parts (words)
     
     # Find the year (4 digits)
@@ -42,18 +36,13 @@
     
 # Process files in the source directory
 
-
     # Check old path
-
 
     # Get new file name
 
-
     # Define the new path in the new directory
 
-
     # Copy the file to the new directory with the new name
-
 
 
 
